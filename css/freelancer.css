@@ -16,13 +16,14 @@ p.small {
     font-size: 16px;
 }
 
+
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #fff;
 }
 
 h1,
@@ -275,7 +276,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #fff;
     background: #fff;
 }
 
@@ -328,7 +329,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #fff;
 }
 
 form .row:first-child .floating-label-form-group {
